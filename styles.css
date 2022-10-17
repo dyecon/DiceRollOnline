@@ -8,7 +8,7 @@
   }
   body {
     /* #545454, #454545, #676767 */
-    background: linear-gradient(#000000, #3773a4, #2bb4c6);
+    background: linear-gradient(#000000, #000000, #173f6a);
     display: grid;
     grid-template-columns: 1fr;
     height: 100vh;
@@ -204,4 +204,3 @@
       perspective: 1300px;
     }
   }
-  
